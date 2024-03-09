@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    font-family: Arial, serif;
+    background-color: #87d6d0d8;
+}
+h1 {
+    text-align: center;
+}
+
+.btn-primary {
+    text-align: center;
+}
